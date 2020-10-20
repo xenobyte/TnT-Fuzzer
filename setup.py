@@ -31,7 +31,7 @@ setup(
                       'PyJFuzz==1.1.0',
                       'python-dateutil==2.6.1',
                       'pytz==2017.2',
-                      'PyYAML==3.12',
+                      'PyYAML==5.1',
                       'requests==2.18.4',
                       'rfc3987==1.3.7',
                       'simplejson==3.11.1',
