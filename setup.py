@@ -40,5 +40,5 @@ setup(
                       'strict-rfc3339==0.7',
                       'swagger-spec-validator==2.1.0',
                       'termcolor==1.1.0',
-                      'urllib3==1.22',
+                      'urllib3==1.24.2',
                       'webcolors==1.7'])
