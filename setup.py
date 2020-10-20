@@ -32,7 +32,7 @@ setup(
                       'python-dateutil==2.6.1',
                       'pytz==2017.2',
                       'PyYAML==3.12',
-                      'requests==2.18.4',
+                      'requests==2.20.0',
                       'rfc3987==1.3.7',
                       'simplejson==3.11.1',
                       'six==1.10.0',
